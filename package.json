@@ -10,7 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@discordjs/builders": "^0.11.0",
+    "@discordjs/rest": "*",
+    "discord-api-types": "^0.26.1",
     "discord.js": "^13.5.1",
-    "node": "^17.3.0"
+    "node": "^17.3.0",
+    "nvm": "^0.0.4"
   }
 }
